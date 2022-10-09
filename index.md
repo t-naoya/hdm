@@ -13,6 +13,7 @@ Repository for Hierarchical Diffusion Models for Singing Voice Neural Vocoder
 <table align="center" width="90%">
   <thead>
     <tr>
+      <th>Singer</th>
       <th>Ground Truth</th>
       <!-- th>Original voice</th-->
       <th><a href="https://arxiv.org/abs/1910.11480">Parallel WaveGAN</a></th>
@@ -22,6 +23,7 @@ Repository for Hierarchical Diffusion Models for Singing Voice Neural Vocoder
   </thead>
   <tbody>
       <tr>
+      <td>F02</td>
       <td><audio controls="" preload="auto">
             <source src="wavs/GT/F02_117.wav"></audio></td>
       <td><audio controls="" preload="auto">
@@ -32,6 +34,7 @@ Repository for Hierarchical Diffusion Models for Singing Voice Neural Vocoder
             <source src="wavs/HPG/F02_117.wav"></audio></td>
     </tr>
     <tr>
+      <td>NJAT</td>
       <td><audio controls="" preload="auto">
             <source src="wavs/GT/NJAT_12.wav"></audio></td>
       <td><audio controls="" preload="auto">
@@ -42,6 +45,7 @@ Repository for Hierarchical Diffusion Models for Singing Voice Neural Vocoder
             <source src="wavs/HPG/NJAT_12.wav"></audio></td>
     </tr>
     <tr>
+      <td>Elvis</td>
       <td><audio controls="" preload="auto">
             <source src="wavs/GT/English-Elvis_139.wav"></audio></td>
       <td><audio controls="" preload="auto">
@@ -52,6 +56,7 @@ Repository for Hierarchical Diffusion Models for Singing Voice Neural Vocoder
             <source src="wavs/HPG/English-Elvis_139.wav"></audio></td>
     </tr>
     <tr>
+      <td>ADIZ</td>
       <td><audio controls="" preload="auto">
             <source src="wavs/GT/ADIZ_21.wav"></audio></td>
       <td><audio controls="" preload="auto">
@@ -62,6 +67,7 @@ Repository for Hierarchical Diffusion Models for Singing Voice Neural Vocoder
             <source src="wavs/HPG/ADIZ_21.wav"></audio></td>
     </tr>
     <tr>
+      <td>M02</td>
       <td><audio controls="" preload="auto">
             <source src="wavs/GT/M02_106.wav"></audio></td>
       <td><audio controls="" preload="auto">
@@ -72,6 +78,7 @@ Repository for Hierarchical Diffusion Models for Singing Voice Neural Vocoder
             <source src="wavs/HPG/M02_106.wav"></audio></td>
     </tr>
     <tr>
+      <td>F04</td>
       <td><audio controls="" preload="auto">
             <source src="wavs/GT/F04_132.wav"></audio></td>
       <td><audio controls="" preload="auto">
@@ -82,6 +89,7 @@ Repository for Hierarchical Diffusion Models for Singing Voice Neural Vocoder
             <source src="wavs/HPG/F04_132.wav"></audio></td>
     </tr>
     <tr>
+      <td>M03</td>
       <td><audio controls="" preload="auto">
             <source src="wavs/GT/M03_127.wav"></audio></td>
       <td><audio controls="" preload="auto">
@@ -92,6 +100,7 @@ Repository for Hierarchical Diffusion Models for Singing Voice Neural Vocoder
             <source src="wavs/HPG/M03_127.wav"></audio></td>
     </tr>
     <tr>
+      <td>MPUR</td>
       <td><audio controls="" preload="auto">
             <source src="wavs/GT/MPUR_2.wav"></audio></td>
       <td><audio controls="" preload="auto">
