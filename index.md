@@ -10,12 +10,11 @@ Repository for Hierarchical Diffusion Models for Singing Voice Neural Vocoder
 
 ## Audio samples
 
-<table align="center" width=100%">
+<table align="center"  style="text-align: center;">
   <thead>
     <tr>
       <th>Singer</th>
       <th>Ground Truth</th>
-      <!-- th>Original voice</th-->
       <th><a href="https://arxiv.org/abs/1910.11480">Parallel WaveGAN</a></th>
       <th><a href="https://arxiv.org/abs/2106.06406">PriorGrad</a></th>
       <th>HPG-2stage (Ours)</th>
