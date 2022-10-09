@@ -10,7 +10,7 @@ Repository for Hierarchical Diffusion Models for Singing Voice Neural Vocoder
 
 ## Audio samples
 
-<table align="center">
+<table align="center" width="90%">
   <thead>
     <tr>
       <th>Ground Truth</th>
