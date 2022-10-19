@@ -6,7 +6,7 @@
 <br>
 
 ## Introduction
-Repository for Hierarchical Diffusion Models for Singing Voice Neural Vocoder
+Despite progress in neural vocoders, generating a high-quality singing voice remains challenging due to a wider variety of musical expressions in pitch, loudness, and pronunciations. In this work, we propose a hierarchical diffusion model for singing voice neural vocoders. The proposed method consists of multiple diffusion models operating in different sampling rates; the model at the lowest sampling rate focuses on generating accurate low-frequency components such as pitch, and other models progressively generate the waveform at higher sampling rates on the basis of the data at the lower sampling rate and acoustic features. In this demo page, we present some audio samples.
 
 ## Audio samples
 
@@ -183,3 +183,8 @@ As discussed in Section 3.1, we applied the anti-aliasing filter to the predicti
 
   </tbody>
 </table>
+
+
+## Reference
+[1] R. Yamamoto, E. Song, and J.-M. Kim, “Parallel WaveGAN:A fast waveform generation model based on generative adversarial networks with multi-resolution spectrogram,” in Proc. ICASSP, 2020  
+[2] S. gil Lee, H. Kim, C. Shin, X. Tan, C. Liu, Q. Meng, T. Qin, W. Chen, S. Yoon, and T.-Y. Liu, “PriorGrad: Improving Conditional Denoising Diffusion Models with Data-Dependent Adaptive Prior,” in Proc. ICLR, 2022
