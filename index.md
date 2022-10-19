@@ -1,6 +1,6 @@
 # <center>Hierarchical Diffusion Models for Singing Voice Neural Vocoder</center>
 
-<center>Naoya Takahashi, Mayank Kumar Singh, Yuki Mitsufuji</center><br> 
+<center><a href="https://scholar.google.com/citations?user=JbtYJMoAAAAJ">Naoya Takahashi</a>, Mayank Kumar Singh, Yuki Mitsufuji</center><br> 
 <center>Sony Group Coporation</center> 
 
 <br>
@@ -15,8 +15,8 @@ Despite progress in neural vocoders, generating a high-quality singing voice rem
     <tr>
       <th>Singer</th>
       <th style="text-align: center;">Ground Truth</th>
-      <th style="text-align: center;"><a href="https://arxiv.org/abs/1910.11480">Parallel WaveGAN</a></th>
-      <th style="text-align: center;"><a href="https://arxiv.org/abs/2106.06406">PriorGrad</a></th>
+      <th style="text-align: center;"><a href="https://arxiv.org/abs/1910.11480">Parallel WaveGAN [1]</a></th>
+      <th style="text-align: center;"><a href="https://arxiv.org/abs/2106.06406">PriorGrad [2]</a></th>
       <th style="text-align: center;">HPG-2stage (Ours)</th>
     </tr>
   </thead>
